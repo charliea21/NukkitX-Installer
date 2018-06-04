@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NukkitX Installer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NukkitX_Installer_jar</output-path>
+    <root id="archive" name="NukkitX Installer.jar">
+      <element id="module-output" name="NukkitX Installer" />
+    </root>
+  </artifact>
+</component>
